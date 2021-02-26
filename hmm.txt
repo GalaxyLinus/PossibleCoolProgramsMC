@@ -1,0 +1,58 @@
+7-Zip File Manager  
+Acrobat Reader DC  
+ADB  
+Amidst  
+Mr Crayfish's Animation Creator  
+Armorstand Editor (I think Haselkern or sth)  
+Atom  
+Audacity  
+Audio Control  
+AutoClicker  
+Batch Tools
+BleachBit  
+Blockbench  
+Cheat Engine (64-bit)  
+Console Client  
+DaVinci Resolve  
+Discord  
+geek Uninstaller  
+GeoGebra Classic  
+Gif maker  
+GitHub Desktop  
+Google Chrome  
+Image Particle Creator  
+Image to Map  
+IObit Unlocker  
+MC Nether Coords  
+McEdit2  
+Microsoft Office Tools
+Microsoft Teams  
+Mine-imator  
+Minecraft Note Block Studio
+Minecraft Tools  
+MineMap  
+Mineways  
+min_to_min_h  
+Modelbench  
+NBT Checker  
+NBTExplorer  
+ngrok  
+OneDrive  
+paint.net  
+PowerPoint  
+PowerToys  
+Razer Synapse  
+Recuva  
+Search Everything  
+ShareX  
+Skype  
+Spotify  
+Startup
+Steam  
+TerrainFormationFinder  
+Universal Minecraft Editor  
+Unmined 2D Mapping  
+Visual Studio  
+Windows PowerShell  
+Word  
+Zoom  
